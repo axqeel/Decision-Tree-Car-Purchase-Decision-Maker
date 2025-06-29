@@ -1,4 +1,4 @@
-# Decision-Tree-Car-Purchase-Decision-Maker
+# Decision Tree: Car Purchase Decision Maker
 This repository contains a **Decision Tree Classifier** implementation on the **Car Evaluation dataset** using Python and `scikit-learn` to predict car acceptability based on features such as buying price, maintenance, doors, persons capacity, luggage boot size, and safety.
 
 ---
